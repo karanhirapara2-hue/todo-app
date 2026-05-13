@@ -1,0 +1,417 @@
+{"email":"karanhirpara@gmail.com","level":"info","message":"User login successfully","timestamp":"2026-04-21T08:10:48.313Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"email":"karanhirapara28@gmail.com","level":"info","message":"User registered successfully","timestamp":"2026-04-21T08:12:45.659Z","type":"register","userId":"69e7317deea788b74b174786"}
+{"email":"karanhirpara@gmail.com","level":"info","message":"User login successfully","timestamp":"2026-04-21T08:38:09.417Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T09:06:25.627Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-21T09:10:46.471Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e61580eac372265977c87b","timestamp":"2026-04-21T09:11:09.019Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e612e5eac372265977c678","timestamp":"2026-04-21T09:11:11.327Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e612c9eac372265977c675","timestamp":"2026-04-21T09:11:13.815Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-21T09:12:44.033Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T09:22:45.239Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T11:23:21.332Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-21T11:23:43.877Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T11:28:07.602Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-21T11:33:20.252Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e61580eac372265977c87b","timestamp":"2026-04-21T11:35:19.967Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e61580eac372265977c87b","timestamp":"2026-04-21T11:35:30.841Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e612c9eac372265977c675","timestamp":"2026-04-21T11:40:08.838Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e612c9eac372265977c675","timestamp":"2026-04-21T11:40:21.122Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e75e3fc5817f38bcab1be7","timestamp":"2026-04-21T11:40:37.396Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e612e5eac372265977c678","timestamp":"2026-04-21T11:40:52.155Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T12:26:21.875Z","todoId":"69e76ced2bcd32bef15b4c32","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T12:26:28.800Z","todoId":"69e76cf42bcd32bef15b4c38","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T12:26:35.022Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T12:26:40.981Z","todoId":"69e76d002bcd32bef15b4c44","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T12:26:49.543Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-21T12:42:41.666Z","todoId":"69e76d002bcd32bef15b4c44","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"AllTodo deleted","timestamp":"2026-04-21T12:42:45.805Z","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-21T12:42:54.428Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T12:43:14.957Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-21T13:10:57.828Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T14:46:23.973Z","todoId":"69e78dbfe1bb0ab29485b83b","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T14:49:37.327Z","todoId":"69e78e81e1bb0ab29485b849","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T14:53:29.854Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T15:29:40.905Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-21T15:47:23.788Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T15:47:41.486Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-21T15:48:37.489Z","todoId":"69e79c5513dc37fea7300c52","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T05:05:38.905Z","todoId":"69e85722d603320d2c677c93","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T05:05:48.660Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T05:13:56.332Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-22T05:31:16.067Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T06:03:53.672Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T06:04:53.072Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T06:13:09.115Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T06:13:22.272Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T06:13:55.558Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:00:21.828Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:00:30.488Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:00:32.515Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:00:34.499Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:20:37.670Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:21:10.032Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:21:46.881Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:21:50.886Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-22T07:22:48.014Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:22:59.349Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:23:41.093Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:25:18.402Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:25:22.498Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:25:24.664Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:27:25.813Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:27:29.564Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:31:20.363Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:32:38.193Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T07:34:11.055Z","todoId":"69e85722d603320d2c677c93","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:03:41.424Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:03:47.596Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:04:43.192Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:04:51.230Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:09:03.193Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:09:26.815Z","todoId":"69e85722d603320d2c677c93","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:14:26.084Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:15:46.162Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:15:49.047Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:15:56.165Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:16:01.043Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:18:09.818Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:18:11.990Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:18:14.418Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:18:33.993Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:18:53.100Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:19:52.151Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:24:03.818Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:24:05.596Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:24:07.683Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:05.560Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:09.781Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:26.232Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:28.284Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:30.377Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:25:35.468Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:11.231Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:15.733Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:18.419Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:22.704Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:24.810Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:26.891Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:31.083Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:38.491Z","todoId":"69e85722d603320d2c677c93","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:40.711Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:26:44.594Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:10.777Z","todoId":"69e79c5513dc37fea7300c52","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:12.891Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:14.593Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:16.295Z","todoId":"69e78e81e1bb0ab29485b849","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:18.891Z","todoId":"69e78dbfe1bb0ab29485b83b","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:25.313Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:27.072Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:28:30.595Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:34:55.980Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:34:59.451Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:35:49.139Z","todoId":"69e76ced2bcd32bef15b4c32","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:35:52.688Z","todoId":"69e76cf42bcd32bef15b4c38","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:16.100Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:19.216Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:21.243Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:24.020Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:26.550Z","todoId":"69e79c5513dc37fea7300c52","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:30.040Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:33.593Z","todoId":"69e78e81e1bb0ab29485b849","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:36:37.492Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:37:06.631Z","todoId":"69e76cf42bcd32bef15b4c38","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-22T08:37:35.594Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-22T09:44:51.767Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-22T10:14:06.129Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-22T10:30:20.309Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-22T10:30:26.921Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-22T10:30:34.238Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e8a34acebbbfc715e6dacf","timestamp":"2026-04-22T11:22:54.168Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-22T11:35:31.485Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-22T16:03:07.816Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-23T16:17:07.861Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-23T16:44:18.802Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-23T16:44:22.684Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-23T16:44:41.248Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-23T16:45:11.254Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-23T16:45:15.286Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-23T16:58:49.628Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T08:40:37.342Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:02:31.342Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T09:02:43.969Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:18:28.779Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T09:27:48.724Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:28:05.470Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T09:35:56.036Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:39:58.033Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:46:08.573Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T09:46:20.367Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T09:46:25.518Z","type":"activity"}
+{"level":"info","message":"User registered","timestamp":"2026-04-24T09:46:58.210Z","type":"register","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T09:47:05.245Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T09:47:11.772Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T10:13:39.077Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T10:14:59.925Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T10:15:09.171Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T10:15:11.091Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T10:15:47.948Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T10:27:16.650Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T10:27:38.298Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T10:27:40.200Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T10:28:24.791Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T11:32:46.070Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T11:32:57.231Z","type":"login","userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:33:37.521Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:34:00.838Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:34:11.878Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:35:25.642Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T11:36:00.313Z","type":"activity"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:36:22.854Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:36:41.004Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:38:41.058Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:39:18.957Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69eb3c12fbbac8680f57f9b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T11:39:34.133Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T11:41:50.329Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User profile updated","timestamp":"2026-04-24T11:41:57.948Z","type":"business","updatedFields":["email","password","profilePicture"],"userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T11:42:04.908Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T11:42:11.716Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T11:42:13.393Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T11:42:35.074Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-24T13:19:04.910Z","type":"activity"}
+{"level":"info","message":"User registered","timestamp":"2026-04-24T13:20:50.233Z","type":"register","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-24T13:21:37.215Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-25T05:27:44.737Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-25T05:27:56.685Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-25T10:37:10.651Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-25T10:37:31.232Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logout","timestamp":"2026-04-25T10:42:30.964Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-25T10:42:43.450Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-25T10:42:46.740Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-25T10:43:00.532Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-25T11:40:31.762Z","todoId":"69eca82ff74035a461a357a9","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-25T13:34:22.606Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-04-25T13:34:32.466Z","todoId":"69e75e29c5817f38bcab1bd6","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-25T13:34:44.541Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-25T13:35:04.110Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-25T16:23:15.802Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-26T16:28:03.887Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:46:55.504Z","todoId":"69ee417febc7f50d7e5d7fe2","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:49:36.341Z","todoId":"69ee4220ebc7f50d7e5d89ec","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:50:26.030Z","todoId":"69ee4250ebc7f50d7e5d8c2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:51:44.132Z","todoId":"69ee42a04bb4df9eb099ca15","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:52:23.096Z","todoId":"69ee42c64bb4df9eb099cb0a","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:53:38.488Z","todoId":"69ee43128a456ad7353b3bf1","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:53:49.043Z","todoId":"69ee431c8a456ad7353b3cd7","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:54:28.111Z","todoId":"69ee4343ddcfaacfa5a03bf3","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:55:58.083Z","todoId":"69ee439d3f77e55c61fb5121","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:58:27.005Z","todoId":"69ee44323f77e55c61fb547e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-26T16:58:48.698Z","todoId":"69ee44483f77e55c61fb55ff","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:37:23.573Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:37:26.902Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:37:31.930Z","todoId":"69e78dbfe1bb0ab29485b83b","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:37:35.132Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:37:39.244Z","todoId":"69e76ced2bcd32bef15b4c32","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:39:45.953Z","todoId":"69ee44323f77e55c61fb547e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-26T17:46:12.218Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-27T02:17:58.636Z","todoId":"69ee44483f77e55c61fb55ff","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69eec99886d7a72cddd15365","timestamp":"2026-04-27T02:38:37.676Z","todoId":"69ee476a193b84e8e6369f2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69eec57fa5275eb18d0c24ba","timestamp":"2026-04-27T02:39:06.229Z","todoId":"69ee476a193b84e8e6369f2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69eec57fa5275eb18d0c24ba","timestamp":"2026-04-27T02:55:00.101Z","todoId":"69ee476a193b84e8e6369f2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69eec99886d7a72cddd15365","timestamp":"2026-04-27T03:01:03.361Z","todoId":"69ee476a193b84e8e6369f2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e8a34acebbbfc715e6dacf","timestamp":"2026-04-27T03:01:06.500Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e89f6ecebbbfc715e6d747","timestamp":"2026-04-27T03:01:09.593Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69e61580eac372265977c87b","timestamp":"2026-04-27T03:01:13.300Z","todoId":"69e612a5eac372265977c66a","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"AllsubTodo deleted","timestamp":"2026-04-27T03:09:11.269Z","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"subTodo updated","subTodoId":"69eec99886d7a72cddd15365","timestamp":"2026-04-27T03:09:22.699Z","todoId":"69ee476a193b84e8e6369f2c","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-27T04:39:49.256Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-27T10:39:55.090Z","type":"activity","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-27T10:40:46.565Z","type":"activity","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-27T10:41:23.820Z","type":"activity","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T11:18:58.913Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T11:19:56.778Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T11:31:49.052Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T11:58:31.380Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T11:59:01.876Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T11:59:05.049Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T11:59:20.585Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T12:00:26.937Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:01:21.213Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T12:01:36.782Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:02:01.713Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T12:02:11.115Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:02:36.899Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T12:03:46.171Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:03:58.118Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logout","timestamp":"2026-04-27T12:05:43.323Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:06:03.112Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-27T12:06:09.640Z","type":"login","userId":"69eb6e3200b2949a6544b736"}
+{"level":"info","message":"User registered","timestamp":"2026-04-27T12:07:17.063Z","type":"register","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-27T12:07:17.238Z","type":"activity","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-27T12:08:02.940Z","todoId":"69ef51a247556b1035afdb6e","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logout","timestamp":"2026-04-28T04:42:40.979Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-28T04:42:53.229Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"SubTodo created","timestamp":"2026-04-28T09:24:38.185Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-04-28T11:16:07.141Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-04-28T12:18:02.088Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-28T12:18:37.977Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-28T12:53:38.729Z","type":"login","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User logout","timestamp":"2026-04-28T12:54:04.993Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-28T12:54:19.575Z","type":"login","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-29T05:09:47.001Z","type":"activity","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User uploadPhoto","timestamp":"2026-04-29T05:10:27.794Z","type":"activity","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User logout","timestamp":"2026-04-29T05:33:19.654Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-29T05:33:38.164Z","type":"login","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User logout","timestamp":"2026-04-29T06:38:38.140Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-29T06:50:47.904Z","type":"login","userId":"69ef517447556b1035afdaa6"}
+{"level":"info","message":"User credential set","timestamp":"2026-04-29T10:23:28.649Z","type":"setCredential","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User credential set","timestamp":"2026-04-29T10:25:16.580Z","type":"setCredential","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logout","timestamp":"2026-04-29T11:45:35.815Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-29T13:04:10.063Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User credential set","timestamp":"2026-04-29T13:05:31.373Z","type":"setCredential","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:35:52.246Z","type":"register","userId":"69f2093796d4d5d11fb9e4f9"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:43:21.914Z","type":"register","userId":"69f20af919f49d2e43d28b49"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:46:42.336Z","type":"register","userId":"69f20bc20ed615a32cf5c4a4"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:49:05.558Z","type":"register","userId":"69f20c510ed615a32cf5c56f"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:51:45.870Z","type":"register","userId":"69f20cf10ed615a32cf5c682"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:53:13.021Z","type":"register","userId":"69f20d487c1a6824e8b786e1"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:56:01.265Z","type":"register","userId":"69f20df1f1bb17d47e426aae"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T13:58:12.527Z","type":"register","userId":"69f20e742d433d4a31323575"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T14:00:31.536Z","type":"register","userId":"69f20effb4c5fae165aae71a"}
+{"level":"info","message":"User registered","timestamp":"2026-04-29T14:01:50.534Z","type":"register","userId":"69f20f4e6883bd310280cd62"}
+{"level":"info","message":"User registered","timestamp":"2026-04-30T02:45:56.995Z","type":"register","userId":"69f2c2649b759e8f643eb48a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-30T05:34:52.832Z","type":"login","userId":"69f2c2649b759e8f643eb48a"}
+{"level":"info","message":"User logout","timestamp":"2026-04-30T05:34:56.079Z","type":"activity"}
+{"level":"info","message":"User registered","timestamp":"2026-04-30T06:53:47.243Z","type":"register","userId":"69f2fc7aff8f7244c98e05b6"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-30T06:54:55.646Z","type":"login","userId":"69f2fc7aff8f7244c98e05b6"}
+{"level":"info","message":"User registered","timestamp":"2026-04-30T09:11:33.009Z","type":"register","userId":"69f31cc4a7c4a561145723c3"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-30T09:12:09.174Z","type":"login","userId":"69f31cc4a7c4a561145723c3"}
+{"level":"info","message":"User logout","timestamp":"2026-04-30T09:12:13.348Z","type":"activity"}
+{"level":"info","message":"User registered","timestamp":"2026-04-30T09:16:22.498Z","type":"register","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-30T09:16:36.553Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User registered","timestamp":"2026-04-30T09:18:32.451Z","type":"register","userId":"69f31e68985f5ba9493c0b89"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-30T10:26:11.615Z","todoId":"69f32e43ac32501d7fc47ac9","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-04-30T10:26:33.733Z","todoId":"69f32e43ac32501d7fc47ac9","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-04-30T11:19:02.139Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-30T11:19:11.966Z","todoId":"69f33aafac32501d7fc47c91","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-04-30T11:19:21.911Z","todoId":"69f33ab9ac32501d7fc47c97","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T03:01:22.324Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T09:50:38.483Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T09:50:54.620Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-05-01T10:29:57.868Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T10:30:15.504Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:30:26.204Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:31:29.671Z","todoId":"69f48101dd0584b143f03a4f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:32:56.884Z","todoId":"69f48158fc4c4f885367283f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:35:15.178Z","todoId":"69f481e37af1fefa4e92bfc1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-05-01T10:35:29.674Z","todoId":"69f48101dd0584b143f03a4f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-05-01T10:35:38.414Z","todoId":"69f48158fc4c4f885367283f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-05-01T10:35:40.975Z","todoId":"69f481e37af1fefa4e92bfc1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:38:17.655Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:39:28.216Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-01T10:39:47.725Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:40:10.034Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:41:07.563Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:41:42.185Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:41:45.964Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T10:41:57.773Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:00:02.482Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:00:42.393Z","todoId":"69e8572cd603320d2c677c99","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:04:59.626Z","todoId":"69e79c5513dc37fea7300c52","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:05:26.447Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:05:38.512Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:06:07.613Z","todoId":"69e79c1d13dc37fea7300c4e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:07:34.632Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:07:43.422Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:08:07.401Z","todoId":"69e78f69e1bb0ab29485ba8f","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:09:46.517Z","todoId":"69e78e81e1bb0ab29485b849","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:09:54.728Z","todoId":"69e78dbfe1bb0ab29485b83b","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:09:58.550Z","todoId":"69e78dbfe1bb0ab29485b83b","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:11:30.106Z","todoId":"69e76cfa2bcd32bef15b4c3e","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:12:42.412Z","todoId":"69e76cf42bcd32bef15b4c38","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:15:37.334Z","todoId":"69e76ced2bcd32bef15b4c32","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:16:44.357Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:16:49.227Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:16:56.257Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:16:56.812Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:16:59.427Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:17:02.178Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:17:36.161Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:17:37.026Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:17:37.621Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:17:48.083Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:25:00.331Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:25:11.347Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:25:54.718Z","todoId":"69e76d092bcd32bef15b4c4a","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:27:20.261Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:27:21.062Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:27:21.238Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:27:22.149Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:27:29.442Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:03.106Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:04.869Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:05.108Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:06.165Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:06.947Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:13.961Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:28:29.971Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T11:30:16.338Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:30:41.847Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-01T11:34:36.699Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:35:14.846Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:41:12.962Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:46:52.046Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:47:24.986Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:50:00.888Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:53:57.685Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:05.116Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:07.031Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:08.993Z","todoId":"69f480c2dbe3241f120a7f48","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:11.007Z","todoId":"69e865047a4de0ca5de17f34","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:13.207Z","todoId":"69e877477a4de0ca5de184f2","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:15.017Z","todoId":"69e85914d603320d2c677ec1","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:16.612Z","todoId":"69e864c97a4de0ca5de17f20","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:22.722Z","todoId":"69f482997af1fefa4e92c078","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-01T11:54:51.171Z","todoId":"69f482f37af1fefa4e92c085","type":"activity","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T05:47:43.250Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T05:48:09.424Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T05:49:09.090Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T08:55:50.547Z","type":"activity"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T08:56:27.174Z","type":"register","userId":"69f5bc3a2ff097d1d087765b"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T08:56:35.333Z","type":"login","userId":"69f5bc3a2ff097d1d087765b"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T08:59:20.823Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T08:59:40.732Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T09:08:20.013Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T09:08:25.742Z","type":"login","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-02T09:09:08.690Z","todoId":"69f5bf342ff097d1d08777a0","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo deleted","timestamp":"2026-05-02T09:09:17.961Z","todoId":"69f5bf342ff097d1d08777a0","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T09:09:22.683Z","todoId":"69f33ab9ac32501d7fc47c97","type":"activity","userId":"69ec3353e07cd04fa0d6725a"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T09:11:33.868Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T09:11:48.034Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User credential set","timestamp":"2026-05-02T09:12:29.879Z","type":"setCredential","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User credential set","timestamp":"2026-05-02T09:13:05.982Z","type":"setCredential","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T09:16:11.592Z","type":"register","userId":"69f5c0db2ff097d1d08778ad"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T09:28:38.250Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T09:28:44.633Z","type":"login","userId":"69df55747b7b9e7f038c46b0"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T09:43:42.578Z","type":"register","userId":"69f5c74e2ff097d1d08781a2"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T11:09:46.080Z","type":"register","userId":"69f5db79c81ba2fbaf781932"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T11:10:40.385Z","type":"login","userId":"69f5db79c81ba2fbaf781932"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T11:25:50.877Z","type":"register","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T11:27:36.022Z","type":"login","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"User credential set","timestamp":"2026-05-02T11:35:02.184Z","type":"setCredential","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T11:35:38.325Z","type":"register","userId":"69f5e18acb73cc47384ff4d0"}
+{"level":"info","message":"User registered","timestamp":"2026-05-02T12:01:10.693Z","type":"register","userId":"69f5e786caff0587c6c8a851"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-02T12:37:39.023Z","todoId":"69f5f0125c700ddb6ed77ea5","type":"activity","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-02T12:40:21.950Z","todoId":"69f5f0b55c700ddb6ed77ec8","type":"activity","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User logout","timestamp":"2026-05-02T12:42:21.358Z","type":"activity"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-02T12:42:27.365Z","type":"login","userId":"69f5e18acb73cc47384ff4d0"}
+{"level":"info","message":"Todo created","timestamp":"2026-05-02T12:42:41.618Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5e18acb73cc47384ff4d0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T12:55:38.238Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5e18acb73cc47384ff4d0"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T12:56:45.701Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T13:05:22.243Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T13:05:22.352Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-02T13:05:37.133Z","todoId":"69f5f1415c700ddb6ed77ef8","type":"activity","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-05T04:43:00.594Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-05T04:43:42.616Z","type":"login","userId":"69f5df3ecb73cc47384ff443"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-12T12:24:40.822Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"User logged in","timestamp":"2026-05-13T03:25:04.773Z","type":"login","userId":"69f31de6985f5ba9493c0b67"}
+{"level":"info","message":"Todo updated","timestamp":"2026-05-13T03:26:42.646Z","todoId":"69f5f0b55c700ddb6ed77ec8","type":"activity","userId":"69f31de6985f5ba9493c0b67"}
